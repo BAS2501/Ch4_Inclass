@@ -1,3 +1,5 @@
+# Blade Strzelczyk & Riley Backs
+
 # read wine.csv file
 wine.df <- read.csv("wine.csv", header = TRUE)
 
